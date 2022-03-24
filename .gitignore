@@ -39,3 +39,5 @@ luac.out
 *.x86_64
 *.hex
 
+# auto generated html
+*.html
